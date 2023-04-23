@@ -1,0 +1,9 @@
+{
+    "DATA_IN": "./in",
+    "DATA_OUT": "./out",
+    "BLACKLISTED_COLUMNS": [
+        1,
+        5
+    ],
+    "ROUTES_DIR": "./routes"
+}

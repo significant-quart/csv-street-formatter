@@ -1,0 +1,2 @@
+lit make
+pause

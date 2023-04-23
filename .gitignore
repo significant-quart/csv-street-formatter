@@ -1,0 +1,9 @@
+.vscode/
+
+deps/
+
+in/*.csv
+out/*.csv
+routes/*.txt
+
+*.exe
